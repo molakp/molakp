@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @molakp
+- 👋 Hi, I’m Silvestro, here you'll find me under my nickname @molakp
 - 👀 I love developing Data Engineering and ML solutions
 - 🌱 I’m currently focusing on computer vision and LLM
 - 🎓 MS in Artificial Intelligence and Informatics
