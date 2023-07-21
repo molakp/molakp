@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @molakp
-- 👀 I’m interested in Data Engineering, AI and dogs 
-- 🌱 I’m currently learning Databricks and PySpark
+- 👀 I love developing Data Engineering and ML solutions
+- 🌱 I’m currently focusing on computer vision and LLM
+- 🎓 MS in Artificial Intelligence and Informatics
+- ✔️ Databricks Data Engineer Associate Certified
 - 📫 You can reach me on Linkedin (link in profile)
 
 <!---
